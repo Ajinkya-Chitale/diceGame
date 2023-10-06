@@ -1,0 +1,10 @@
+.primary {
+    background-color: var(--black) !important;
+    color: var(--white);
+}
+
+.secondary {
+    background-color: var(--white) !important;
+    color: var(--black);
+    border: 1px solid var(--black);
+}
